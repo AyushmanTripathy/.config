@@ -1,0 +1,9 @@
+.bashrc
+.git-log
+.Xresources
+.moc/themes/custom.txt
+.moc/config
+playlist.txt
+todo.txt
+ideals.js
+.bash_aliases

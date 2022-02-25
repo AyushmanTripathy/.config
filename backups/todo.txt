@@ -1,0 +1,33 @@
+URLS
+----
+https://eztvtorrentz.net/tv-series/mr-robot-2139
+https://ytstv.me/series/mr-robot-tv-series-2015#
+https://ww2.1337x.buzz/search/
+
+imitaion game - https://www.youtube.com/watch?v=U_xE807vc6g
+
+NOTICE
+------
+Runner.instance_.gameOver = () => {};
+
+PROJECTS
+--------
+
+[x] editmd
+    upgrade to WebSockets
+[ ] postroom 
+    write a readme
+[x] UHC
+[ ] PIPESCRIPT
+[x] BTSS
+[x] TYPETEST
+[x] portfolio website
+[ ] the hunt
+[x] RAZITE
+[x] tic tac toe ai
+
+TOPICS
+------
+
+piping language
+search engine optimization

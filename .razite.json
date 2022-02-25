@@ -1,0 +1,16 @@
+{
+  "type": "json",
+  "delay": "2500",
+  "link": "http://localhost:3000/",
+  "def": "link",
+  "options": {
+    "method": "get",
+    "mode": "cors",
+    "cache": "no-cache",
+    "credentials": "same-origin",
+    "headers": { "Content-Type": "application/json" },
+    "redirect": "follow",
+    "referrerPolicy": "no-referrer",
+    "body": {}
+  }
+}
