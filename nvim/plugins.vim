@@ -1,6 +1,4 @@
 call plug#begin('~/.vim/autoload/plugged')
-
-    Plug 'cheap-glitch/vim-v', { 'for': 'v' }
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     Plug 'ajh17/VimCompletesMe'
     Plug 'junegunn/rainbow_parentheses.vim',  
@@ -9,9 +7,10 @@ call plug#begin('~/.vim/autoload/plugged')
     Plug 'morhetz/gruvbox'
     Plug 'scrooloose/NERDTree', { 'on':  'NERDTreeToggle' }
     Plug 'mattn/emmet-vim'
-    Plug 'prettier/vim-prettier', {
-  \ 'do': 'npm install',
-  \ 'for': ['javascript','toml','sql' ,'css','scss', 'json', 'svelte', 'markdown', 'html'] }
+    
+  Plug 'prettier/vim-prettier', {
+    \ 'do': 'npm install',
+    \ 'for': ['javascript','sql' ,'css','scss', 'json', 'svelte', 'markdown', 'html'] }
 
 call plug#end()
 
