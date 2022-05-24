@@ -2,6 +2,7 @@
 .git-log
 .Xresources
 playlist.txt
+pr_data.txt
 todo.txt
 .bash_aliases
 .moc/themes/custom.txt

@@ -7,6 +7,9 @@ https://ww2.1337x.buzz/search/
 bhavesh joshi - https://youtu.be/EnVzfcG9IWY
 imitaion game - https://www.youtube.com/watch?v=U_xE807vc6g
 
+mysql password - 867
+https://dev.mysql.com/downloads/mysql/
+
 NOTICE
 ------
 Runner.instance_.gameOver = () => {};
@@ -15,6 +18,9 @@ TOPICS
 ------
 decentralised web
 search engine optimization
+
+EXERCISE SHEDULEAR
+CALCULATOR
 
 PROJECTS
 --------

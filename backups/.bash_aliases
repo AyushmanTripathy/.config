@@ -15,6 +15,7 @@ alias watchc='nodemon -I -x "gcc main.c && ./a.out" -w main.c'
 
 alias cpc="echo 'chup pad chutiya'"
 alias fap="toilet 'nofap' -f smmono12.tlf";
+alias io="echo $(date)"
 
 # cd command
 alias ..='cd ..'

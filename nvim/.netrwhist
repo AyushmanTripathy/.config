@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/ayushmantripathy2004/.config/backups'
+let g:netrw_dirhist_8='/home/ayushmantripathy2004/.taskmanager'
+let g:netrw_dirhist_7='/run/mysqld'
+let g:netrw_dirhist_6='/var/lib/mysql-files'
+let g:netrw_dirhist_5='/home/ayushmantripathy2004/taskmanager'
 let g:netrw_dirhist_4='/home/ayushmantripathy2004/ps/src'
 let g:netrw_dirhist_3='/usr/include'
 let g:netrw_dirhist_2='/home/ayushmantripathy2004/taskmanager/src'
