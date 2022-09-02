@@ -1,3 +1,8 @@
+start learning things in a organised way
+1. keep notes
+2. build projects
+3. enjoy the process
+
 URLS
 ----
 https://eztvtorrentz.net/tv-series/mr-robot-2139
@@ -10,8 +15,16 @@ imitaion game - https://www.youtube.com/watch?v=U_xE807vc6g
 mysql password - 867
 https://dev.mysql.com/downloads/mysql/
 
+TO BINGE
+-- -----
+panchayat
+mr robot
+hostel daze
+
+
 NOTICE
 ------
+STORE ssethtzeentach content
 Runner.instance_.gameOver = () => {};
 
 TOPICS
@@ -19,6 +32,8 @@ TOPICS
 decentralised web
 search engine optimization
 
+JS FRAMEWORK WITH FETCHING HTML COMPONENTS
+OWN WEBSITE AND SYNC DATA TO IT. (contacts)
 EXERCISE SHEDULEAR
 CALCULATOR
 
