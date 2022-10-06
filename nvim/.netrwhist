@@ -1,12 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/ayushmantripathy2004/.config/backups'
+let g:netrw_dirhist_0='/mnt/chromeos/MyFiles/musicDB/chill'
+let g:netrw_dirhist_9='/home/ayushmantripathy2004/math'
+let g:netrw_dirhist_8='/home/ayushmantripathy2004/.pat'
 let g:netrw_dirhist_7='/home/ayushmantripathy2004/exercise/src/routes'
 let g:netrw_dirhist_6='/home/ayushmantripathy2004/exercise/src'
 let g:netrw_dirhist_5='/home/ayushmantripathy2004/exercise'
 let g:netrw_dirhist_4='/home/ayushmantripathy2004/exercise/src'
 let g:netrw_dirhist_3='/home/ayushmantripathy2004/b2b/backend/my-app'
 let g:netrw_dirhist_2='/home/ayushmantripathy2004/b2b/backend/my-app/src'
-let g:netrw_dirhist_1='/home/ayushmantripathy2004/b2b/backend/my-app'
-let g:netrw_dirhist_0='/home/ayushmantripathy2004/b2b/backend'
-let g:netrw_dirhist_9='/home/ayushmantripathy2004/.config/backups'
-let g:netrw_dirhist_8='/home/ayushmantripathy2004/.taskmanager'

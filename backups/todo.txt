@@ -1,3 +1,5 @@
+username : phi
+
 start learning things in a organised way
 1. keep notes
 2. build projects
@@ -16,7 +18,11 @@ mysql password - 867
 https://dev.mysql.com/downloads/mysql/
 
 TO BINGE
--- -----
+--------
+mrizapur s2
+back to the future
+silicon valley
+the office
 panchayat
 mr robot
 hostel daze
