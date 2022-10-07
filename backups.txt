@@ -2,7 +2,7 @@
 .git-log
 .Xresources
 playlist.txt
-.quotes.txt
+quotes.txt
 pr_data.txt
 todo.txt
 .bash_aliases
