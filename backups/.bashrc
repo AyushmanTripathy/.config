@@ -29,4 +29,4 @@ fi
 
 # custom commands at start
 taskmanager
-printf "\n$(shuf -n 1 ~/quotes.txt)\n\n"
+printf "\n$(sort -R ~/quotes.txt | head -n1)\n"
