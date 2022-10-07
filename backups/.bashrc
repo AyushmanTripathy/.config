@@ -28,5 +28,5 @@ fi
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
 # custom commands at start
-
 taskmanager
+printf "\n$(shuf -n 1 ~/quotes.txt)\n\n"
