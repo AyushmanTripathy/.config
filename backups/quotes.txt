@@ -27,6 +27,7 @@
 [Michael]  “Dwight, you ignorant slut!”
 [Michael]  “It’s Britney, bitch.”
 [Michael]  “That’s what she said.”
+[Watson]  “The problems of your past are your business, The problems of your future are my previlage.”
 [Elliot]  “When we lose our principles, we invite chaos.” 
 [Elliot]  “I have burrowed underneath your brain. I am nested there. I am the scream in your mind. You will cooperate.” 
 [Elliot]  “The concept of waiting bewilders me. There are always deadlines. There are always ticking clocks. That is why you must manage your time.” 
@@ -52,3 +53,10 @@
 [Elliot]  “Though she’s a psychologist she’s really bad at reading people but I’m good at reading people. My secret? I look for the worst in them.” 
 [Elliot]  “I never want to be right about my hacks, but people always find a way to disappoint.” 
 [Elliot]  “I’m good at reading people. My secret, I look for the worst in them.” 
+[Sherlock]  “I’m not a psychopath, Anderson. I’m a high-functioning sociopath. Do your research.”
+[Sherlock]  “The Game Is On!”
+[Sherlock]  “Anderson, don’t talk out loud. You lower the IQ of the whole street.”
+[Sherlock]  “Sentiment is a chemical defect found on the losing side.”
+[Sherlock]  “My name is Sherlock Holmes. It is my business to know what other people don’t know.”
+[Sherlock]  “The East Wind Takes Us All in the End.”
+[Sherlock]  “I always know when the game is on; because i love it.”
