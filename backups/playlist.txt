@@ -98,4 +98,11 @@ hindi/pani_da_rang.mp3 chill https://youtu.be/2kgEc6oH9J0
 hindi/azadi.mp3 rap.txt https://youtu.be/4nCshJBODT4
 english/at_my_worst.mp3 chill.txt https://www.youtube.com/watch?v=JVUgD50m_LA&ab_channel=DopeLyrics
 hindi/grind.mp3 rap.txt https://www.youtube.com/watch?v=O4YEtMj1B50
-english/london_bridge.mp3 high.txt https://www.youtube.com/watch?v=WD33ii01kXI
+hindi/chhodo_kaliyan.mp3 chill.txt https://youtu.be/fWT9VNA7AyU
+punjabi/daru.mp3 rap.txt https://youtu.be/WOdnRhWeHoY
+hindi/pehli_dafa.mp3 chill.txt https://youtu.be/SxTYjptEzZs
+hindi/dubai_ka_sheikh.mp3 rap.txt https://youtu.be/a8R8VFD20zg
+hindi/ami_tomake_balobhasi.mp3 rap.txt https://youtu.be/pQzJ8bR3HM4
+punjabi/daru.mp3 high.txt https://youtu.be/WOdnRhWeHoY
+hindi/senorita.mp3 high.txt https://youtu.be/yDv0WSgXJVg
+punjabi/phone.mp3 high.txt https://youtu.be/-dNPH-AZxCY
