@@ -5,6 +5,11 @@ start learning things in a organised way
 2. build projects
 3. enjoy the process
 
+WORKS
+-----
+[ ] change portfolio website
+[ ] naveen's work
+
 URLS
 ----
 https://eztvtorrentz.net/tv-series/mr-robot-2139
@@ -19,12 +24,18 @@ https://dev.mysql.com/downloads/mysql/
 
 TO BINGE
 --------
+no smoking
+Byomkesh
+chacha vidhayak hai hamare
 mrizapur s2
 back to the future
 silicon valley
 the office
 panchayat
 hostel daze
+colledge romance
+money heist
+flames
 
 NOTICE
 ------

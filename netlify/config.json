@@ -1,4 +1,16 @@
 {
 	"telemetryDisabled": false,
-	"cliId": "a9954edd-a6cc-4006-9831-6d4cf76ca95f"
+	"cliId": "a9954edd-a6cc-4006-9831-6d4cf76ca95f",
+	"userId": "614b4b8720dd12f61d34d05b",
+	"users": {
+		"614b4b8720dd12f61d34d05b": {
+			"id": "614b4b8720dd12f61d34d05b",
+			"name": "Ayushman Tripathy",
+			"email": "ayushmantripathy2004@gmail.com",
+			"auth": {
+				"token": "Xsq8XCqy2O8zImLsPEuXQsaVQtWuc3BM3KJhWSBvyHo",
+				"github": {}
+			}
+		}
+	}
 }
