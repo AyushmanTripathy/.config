@@ -110,3 +110,4 @@ punjabi/illegal_weapon.mp3 high.txt https://youtu.be/H7_yY3yr-jE
 punjabi/aja_ve_mahiya.mp3 chill.txt https://youtu.be/BJtbYaVwyEI
 others/alien_shooter_2_track.mp3 high.txt https://youtu.be/2JmlMZz2faU
 others/alien_shooter_2_action_track.mp3 high.txt https://youtu.be/kYHFa_T1fNw
+hindi/kya_leke_aya_jagat_me.mp3 chill.txt https://youtu.be/9VNI3s7rUoQ

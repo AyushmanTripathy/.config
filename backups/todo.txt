@@ -1,3 +1,5 @@
+
+Nirbhau Nirvair
 username : phi
 
 start learning things in a organised way
@@ -7,7 +9,9 @@ start learning things in a organised way
 
 WORKS
 -----
-[ ] change portfolio website
+[ ] update razite
+[ ] exercise sheduler
+[x] change portfolio website
 [ ] naveen's work
 
 URLS

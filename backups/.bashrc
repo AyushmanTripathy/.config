@@ -1,7 +1,8 @@
 set -o vi
 
 export EDITOR="nvim"
-export PATH="$PATH:$HOME/bin:$HOME/.local/bin"
+export GITHUB_USERNAME="AyushmanTripathy"
+export PATH="$PATH:$HOME/bin:$HOME/.local/bin:$HOME/.config/nvm/versions/node/v18.15.0/bin"
 export PS1="\[$(tput setaf 2)\][⚡ \w]ϕ $(tput sgr0)\]"
 export FZF_DEFAULT_COMMAND='find . -type f ! -path "*/\.git/*" ! -path "*/node_modules/*"'
 

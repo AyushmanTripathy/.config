@@ -1,6 +1,5 @@
 call plug#begin('~/.vim/autoload/plugged')
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
-    Plug 'ajh17/VimCompletesMe'
     Plug 'junegunn/rainbow_parentheses.vim',  
     Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }     
     Plug 'mg979/vim-visual-multi', {'branch': 'master'}
@@ -15,6 +14,7 @@ call plug#begin('~/.vim/autoload/plugged')
 call plug#end()
 
 let g:v_warnings=1
+
 " Rainbow Parentasis
 let g:rainbow#max_level = 16
 let g:rainbow#pairs = [['{', '}'],['[',']'],['(',')']]
