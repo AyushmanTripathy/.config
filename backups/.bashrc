@@ -31,3 +31,4 @@ fi
 # custom commands at start
 taskmanager
 printf "\n$(sort -R ~/quotes.txt | head -n1)\n"
+sh $HOME/bin/autocommiter >> /dev/null

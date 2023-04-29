@@ -9,7 +9,7 @@ call plug#begin('~/.vim/autoload/plugged')
     
   Plug 'prettier/vim-prettier', {
     \ 'do': 'npm install',
-    \ 'for': ['javascript','sql' ,'css','scss', 'json', 'svelte', 'markdown', 'html'] }
+    \ 'for': ['javascript','sql' ,'css','scss', 'json', 'svelte', 'markdown', 'html', 'c'] }
 
 call plug#end()
 

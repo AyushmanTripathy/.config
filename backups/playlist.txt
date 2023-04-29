@@ -111,3 +111,11 @@ punjabi/aja_ve_mahiya.mp3 chill.txt https://youtu.be/BJtbYaVwyEI
 others/alien_shooter_2_track.mp3 high.txt https://youtu.be/2JmlMZz2faU
 others/alien_shooter_2_action_track.mp3 high.txt https://youtu.be/kYHFa_T1fNw
 hindi/kya_leke_aya_jagat_me.mp3 chill.txt https://youtu.be/9VNI3s7rUoQ
+hindi/gode_pe_sawar.mp3 chill.txt https://youtu.be/cY4FmcWT0Rc
+hindi/abhija_mere_baccho_ki_maa.mp3 high.txt https://youtu.be/r9Kb_2ZJJdo
+hindi/lag_gae.mp3 weird.txt https://youtu.be/yUuCV_goiNI
+hindi/lag_gae.mp3 weird.txt https://youtu.be/uOKYkwBvzaw
+hindi/udd_gaye.mp3 high.txt https://youtu.be/v2-9rIL_f4w
+hindi/liggi.mp3 high.txt https://youtu.be/6BYIKEH0RCQ
+english/sugar_and_brownies.mp3 high.txt https://youtu.be/y2tEPmwWEiI
+hindi/chutiyo.mp3 happy.txt https://youtu.be/IO-mxkUImMA
