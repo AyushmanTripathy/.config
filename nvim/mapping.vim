@@ -10,6 +10,7 @@ nnoremap k gk
 nnoremap <Tab>n :NERDTreeToggle <CR>
 nnoremap <Tab>r :source ~/.config/nvim/init.vim<CR> 
 nnoremap <Tab>p :PrettierAsync <CR>
+nnoremap <Tab>i gg=G
 nnoremap <Tab>c :let @/=''<cr>
 nnoremap <Tab>s :vsplit <cr>
 nnoremap <Tab>f :FZF <cr>
